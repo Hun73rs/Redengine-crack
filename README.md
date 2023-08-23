@@ -1,4 +1,5 @@
 RedInjector - DLL Injector Modificado 🚀
+
 Aviso Importante: Este projeto é apenas para fins educacionais. ❗
 
 Descrição 📝
@@ -21,6 +22,5 @@ Este projeto foi criado apenas para fins educacionais. Não incentivamos nem apo
 
 Contribuição 🤝
 Contribuições são bem-vindas! Se você quiser contribuir para melhorar este projeto, sinta-se à vontade para enviar pull requests. 👍
-
-Contato 📞
-Para mais informações e discussões, você pode se juntar ao nosso servidor no Discord: [Convite para o Discord 💬 ](https://discord.gg/Uuxcnrm9)https://discord.gg/Uuxcnrm9
+📞
+Para mais informações e discussões, você pode se juntar ao nosso servidor no Discord: [Convite para o Discord 💬 ](https://discord.gg/Uuxcnrm9)
